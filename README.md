@@ -10,7 +10,7 @@ This repository demonstrates how to build an ETL (Extract, Transform, Load) syst
 
 The solution leverages:
 - **Amazon Bedrock Agents** with Claude 3.7 for natural language understanding and orchestration
-- **Model-Container-Protocol (MCP)** server to interface between the AI agent and data processing engines
+- **Model-Context-Protocol (MCP)** server to interface between the AI agent and data processing engines
 - **Amazon EMR/Glue** with SparkSQL for scalable data processing
 - **Amazon S3** for data storage
 
