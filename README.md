@@ -1,6 +1,6 @@
 # Agentic AI Data Transform
 
-A reference architecture and code samples for building intelligent data transformation pipelines using natural language instructions with Amazon Bedrock Agents, Amazon EMR, and MCP (Model-Container-Protocol).
+A reference architecture and code samples for building intelligent data transformation pipelines using natural language instructions with Amazon Bedrock Agents, Amazon EMR, and MCP (Model-Context-Protocol).
 
 ![Architecture Diagram](docs/images/architecture-diagram.png)
 
