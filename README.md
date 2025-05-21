@@ -2,7 +2,7 @@
 
 A reference architecture and code sample for building intelligent data transformation pipelines using natural language instructions with Amazon Bedrock, Amazon Athena, and MCP (Model-Context-Protocol).
 
-![Architecture Diagram](docs/images/architecture-diagram.png)
+![Architecture Diagram](./diagram.png)
 
 ## Overview
 
